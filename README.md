@@ -34,13 +34,11 @@ npm install && npm run build
    
 4.	Generiši ključ aplikacije i pokreni migracije:
 
-
-=============
 php artisan key:generate
 php artisan migrate
-=============
+
 
 5.	Pokreni lokalni server:
-=============
+
 php artisan serve
-=============
+
