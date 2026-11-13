@@ -25,11 +25,9 @@ Full-stack web aplikacija za pregled voznog parka, online rezervaciju vozila i a
 
 2.	Instaliraj PHP i frontend zavisnosti:
 
-
-=============
 composer install
 npm install && npm run build
-=============
+
 3.	Kopiraj .env.example u .env i podesi parametre za povezivanje sa svojom MySQL bazom podataka.
    
 4.	Generiši ključ aplikacije i pokreni migracije:
